@@ -19,4 +19,8 @@ nothing important still in progress
  - [X] create Header component
  - [X] create Product component
  - [] create Spec component
+ - [] create Breadcrump scss
+ - [] create Header scss
+ - [] create Product scss
+ - [] create Spec scss
 
