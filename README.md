@@ -4,6 +4,9 @@
 
 ## !important STILL IN PROGRESS
 
+<h2 align="center">
+  <img src="./src/assets/komplettWeb.png" alt="still in progress" width="100%">
+</h2>
 
 ## Project Specifications
 
