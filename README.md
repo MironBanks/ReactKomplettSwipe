@@ -5,7 +5,7 @@
 ## !important STILL IN PROGRESS
 
 <h2 align="center">
-  <img src="./src/assets/komplettWeb.png" alt="still in progress" width="100%">
+  <img src="./src/assets/komplettWeb.png" alt="still in progress" width="50%">
 </h2>
 
 ## Project Specifications
@@ -22,8 +22,9 @@ nothing important still in progress
  - [X] create Header component
  - [X] create Product component
  - [X] create Spec component
- - [] create Breadcrump scss
- - [] create Header scss
- - [] create Product scss
- - [] create Spec scss
+ - [X] create Breadcrump scss
+ - [X] create Header scss
+ - [X] create Product scss
+ - [X] create Spec scss
+ - [X] create create Framer
 
