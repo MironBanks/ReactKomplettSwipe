@@ -15,8 +15,8 @@ nothing important still in progress
 ### sleep - eat - code -repeat
  - [X] create react app
  - [X] i need a coffee
- - [] create Breadcrump component
- - [] create Header component
- - [] create Product component
+ - [X] create Breadcrump component
+ - [X] create Header component
+ - [X] create Product component
  - [] create Spec component
 
