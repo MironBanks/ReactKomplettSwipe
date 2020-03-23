@@ -4,6 +4,7 @@ import './App.css';
 import Header from './components/Header'
 import Breadcrumb from './components/Breadcrumb';
 import Product from './components/Product';
+import Spec from './components/Spec'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Header />
       <Breadcrumb />
       <Product />
+      <Spec />
     </>
   );
 }
